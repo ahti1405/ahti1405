@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-I am a Python Backend Developer. Starting my journey from learning Python, then Postgresql, Django, DRF, HTML, CSS, Javascript, Docker etc. At the moment learning ML and Data Engineering.
+I am a Python Backend Developer. Starting my journey from learning Python, then Postgresql, Django, DRF, HTML, CSS, Javascript, Docker etc. At the moment learning ML.
 
 * 🌍  I'm based in Osh/Kyrgyzstan
 * ✉️  You can contact me at [aktanbekgt@gmail.com](mailto:aktanbekgt@gmail.com)
