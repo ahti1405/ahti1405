@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aktanbek Aidarov
 ========================================================================================================================================
 
-Backend Developer
+Trainee at EPAM Data Lab
 -----------------
 
-I am a Python Backend Developer. Starting my journey from learning Python, then Postgresql, Django, DRF, HTML, CSS, Javascript, Docker etc. At the moment learning ML.
+Starting my journey from learning Python, then Postgresql, Django, DRF, HTML, CSS, Javascript, Docker, EPAM courses, ML etc.
 
 * 🌍  I'm based in Osh/Kyrgyzstan
 * ✉️  You can contact me at [aktanbekgt@gmail.com](mailto:aktanbekgt@gmail.com)
-* 🚀  I'm currently working on [Personal website project](http://aktanbek.com)
-* 🧠  I'm learning Machine Learning
+* 🚀  I'm currently trainee at EPAM Data Lab. 
+* 🧠  I'm learning Python.
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
