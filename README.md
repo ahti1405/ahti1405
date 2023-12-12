@@ -8,9 +8,7 @@ Starting my journey from learning Python, then Postgresql, Django, DRF, HTML, CS
 
 * 🌍  I'm based in Osh/Kyrgyzstan
 * ✉️  You can contact me at [aktanbekgt@gmail.com](mailto:aktanbekgt@gmail.com)
-* 🚀  I'm currently trainee at EPAM Data Lab. 
-* 🧠  I'm learning Python.
-* 🤝  I'm open to collaborating on interesting projects
+
 
 ### Skills
 
