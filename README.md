@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aktanbek Aidarov
 ========================================================================================================================================
 
-Junior Data Quality Engineer at EPAM Systems
+Data Quality Engineer at EPAM Systems
 -----------------
 
 Starting my journey from learning Python, then Postgresql, Django, DRF, HTML, CSS, Javascript, Docker, EPAM courses, ML etc.
